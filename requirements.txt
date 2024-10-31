@@ -1,0 +1,8 @@
+# requirements.txt
+qiskit==0.44.1
+qiskit-machine-learning==0.6.1
+qiskit-aer==0.12.2
+pandas==2.1.1
+numpy==1.24.3
+scikit-learn==1.3.0
+scipy==1.11.3
