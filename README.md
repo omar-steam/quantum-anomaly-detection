@@ -11,8 +11,7 @@ A quantum machine learning approach for detecting network anomalies using Qiskit
 ## Project Structure
 ```
 quantum-network-anomaly/
-├── data/
-│   └── README.md
+├── README.md
 ├── src/
 │   ├── __init__.py
 │   ├── preprocessing.py
