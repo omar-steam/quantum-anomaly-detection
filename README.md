@@ -19,11 +19,6 @@ quantum-network-anomaly/
 │   └── utils.py
 ├── notebooks/
 │   └── quantum_anomaly_detection.ipynb
-├── tests/
-│   ├── __init__.py
-│   ├── test_preprocessing.py
-│   ├── test_quantum_circuit.py
-│   └── test_trainer.py
 ├── requirements.txt
 ├── setup.py
 ├── README.md
