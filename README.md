@@ -13,7 +13,6 @@ A quantum machine learning approach for detecting network anomalies using Qiskit
 quantum-network-anomaly/
 ├── README.md
 ├── src/
-│   ├── __init__.py
 │   ├── preprocessing.py
 │   ├── quantum_circuit.py
 │   ├── trainer.py
