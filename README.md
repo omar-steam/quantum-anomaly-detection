@@ -17,7 +17,7 @@ quantum-network-anomaly/
 │   ├── quantum_circuit.py
 │   ├── trainer.py
 │   └── utils.py
-├── notebooks/
+├── notebook/
 │   └── quantum_anomaly_detection.ipynb
 ├── requirements.txt
 ├── setup.py
